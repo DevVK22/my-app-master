@@ -1,0 +1,8 @@
+.movie-details {
+    flex-grow: 1;
+  }
+  
+  .movie-details h2 {
+    margin-top: 0;
+  }
+  

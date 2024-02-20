@@ -1,0 +1,15 @@
+.movie-list {
+    width: 200px;
+    border-right: 1px solid #ccc;
+    padding-right: 20px;
+    margin-right: 20px;
+  }
+  
+  .movie {
+    cursor: pointer;
+    padding: 10px 0;
+  }
+  
+  .movie.selected {
+    font-weight: bold;
+  }
